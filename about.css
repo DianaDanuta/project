@@ -1,0 +1,14 @@
+.img {
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+h3 {
+    color: green;
+    border-bottom: 2px solid greenyellow;
+}
+
+main {
+    margin: 10px;
+}
